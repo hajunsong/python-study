@@ -1,0 +1,1 @@
+{"VIDEO NAME": "demo_video.mp4", "IP ADDRESS": "168.188.117.160:8000", "VIDEO PATH": "/home/kpst/hajun/Deformable-ConvNets/guest_counter/data"}
